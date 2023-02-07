@@ -1,11 +1,14 @@
 body {
     padding-top: 10px;
   }
-
-p {
-    padding-top = 100px;
-    padding-bottom = 100px;
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
 }
-.col {
-    text-align: left;
+
+header p {
+  text-align: center;
 }
