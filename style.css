@@ -13,6 +13,7 @@ header {
 header p {
   margin-top: 40px;
   text-align: center;
+  color: orange;
 }
 .row .col:nth-child(2) .row:first-child .col {
   text-align: left;
