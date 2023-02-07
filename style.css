@@ -17,3 +17,6 @@ header p {
 .row .col:nth-child(2) .row:first-child .col {
   text-align: left;
 }
+.row {
+  margin-bottom: 20px;
+}
