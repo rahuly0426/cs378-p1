@@ -27,9 +27,11 @@ header p {
 }
 button {
   background-color: lightblue;
-  border: 2px solid lightblue;
-  border-radius: 5px 5px 0px 0px;
-  padding: 10px 20px;
+  border-radius: 50px 50px 20px 20px;
+  width: 40px;
+  height: 40px;
+  float: left;
+  border: 2px solid black;
 }
 .row img {
   display: inline-block;
