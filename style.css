@@ -12,3 +12,6 @@ header {
 header p {
   text-align: center;
 }
+.row .col:nth-child(2) .row:first-child .col {
+  text-align: left;
+}
